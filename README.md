@@ -7,4 +7,4 @@ In order not to let the boss, teacher or beautiful girls next to your seat find 
 When you adjust the transparency, the interface for reading novels will become very cool. You can even use the built-in shortcut key in the reader to switch the work and novel reading interface.
 
 This reader is only a simple demo lol. It only works under windows.
-![avatar](./ui.png)
+![ui](./ui.png)
